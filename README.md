@@ -1,7 +1,6 @@
 # Dungeon & Dragons in 2D
-
-## A simple Dungeon & Dragons like game project in Java for a school project.
-
+A simple Dungeon & Dragons like game project in Java for a school project.
 # Direttive :
-#### classe motore di gioco necessaria
-#### diagrasmmi uml incluse relazioni tra classi
+Il programma deve avere almeno una classe **Motore di Gioco** necessaria;
+
+Deve avere la presenza di **Diagrammi UML**, includendo relazioni tra classi;
